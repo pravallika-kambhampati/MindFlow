@@ -2,5 +2,8 @@
   "dependencies": {
     "moment": "^2.30.1",
     "react-modal": "^3.16.1"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0"
   }
 }
