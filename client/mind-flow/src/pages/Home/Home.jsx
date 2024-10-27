@@ -120,6 +120,7 @@ const Home = () => {
   };
 
   // Pinning a note
+  // Button response created
   const updateIsPinned = async (noteData) => {
     try {
       const response = await axiosInstance.put(
